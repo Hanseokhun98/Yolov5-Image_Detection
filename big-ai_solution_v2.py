@@ -1097,3 +1097,5 @@ if __name__ == "__main__":
     QTimer.singleShot(1000, run_schedule)
     
     sys.exit(app.exec())
+    
+    # 처음으로 Git Hub에 올려보았습니다.
